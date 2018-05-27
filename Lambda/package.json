@@ -1,0 +1,22 @@
+{
+  "name": "fetch-weather",
+  "version": "1.0.0",
+  "description": "A web app form using AWS Lambda and API Gateway to respond with the current tempature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholashuber/fetch-weather.git"
+  },
+   "dependencies": {
+    "node-fetch": "^1.7.3"
+  },
+  "author": "Nicholas Huber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicholashuber/fetch-weather/issues"
+  },
+  "homepage": "https://github.com/Nicholashuber/fetch-weather#readme"
+}
